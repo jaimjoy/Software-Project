@@ -1,0 +1,2 @@
+B2B2C = Business to Business to Consumer
+SaaS Platform = Software-as-a-service that can be licensed/subscribed by retailers.
